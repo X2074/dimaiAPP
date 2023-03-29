@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dimaiAPP/static/css/main.45254696.css",
+    "main.js": "/dimaiAPP/static/js/main.f1e947e2.js",
+    "static/media/logo.png": "/dimaiAPP/static/media/logo.a99d70c11469c4ca35d1.png",
+    "index.html": "/dimaiAPP/index.html",
+    "main.45254696.css.map": "/dimaiAPP/static/css/main.45254696.css.map",
+    "main.f1e947e2.js.map": "/dimaiAPP/static/js/main.f1e947e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45254696.css",
+    "static/js/main.f1e947e2.js"
+  ]
+}
